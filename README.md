@@ -1,6 +1,6 @@
 # Hi there, I'm Pallavi! 👋  
 
-![Profile Image](URL_to_your_profile_image)  
+![Profile Image]("C:\Users\91800\Downloads\If I were to draw myself with my eyebags in it_.jpg")  
 
 ## 🌟 About Me  
 🎓 Currently pursuing **B.Tech in Computer Science & Engineering**  
