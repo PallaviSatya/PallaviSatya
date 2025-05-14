@@ -2,7 +2,7 @@
 
 ![Profile Image]("C:\Users\91800\Downloads\If I were to draw myself with my eyebags in it_.jpg")  
 
-## 🌟 About Me  
+## 🌟 About Me 
 🎓 Currently pursuing **B.Tech in Computer Science & Engineering**  
 💡 Passionate about **Web Development, Data Analysis & GenAI**  
 💻 I love solving **Data Structures & Algorithms (DSA)** problems using **Java**  
