@@ -1,7 +1,4 @@
 # Hi there, I'm Pallavi! 👋  
-
-![Profile Image](https://github.com/PallaviSatya/PallaviSatya/blob/main/github-profile.jpg?raw=true)
-
 ## 🌟 About Me 
 🎓 Currently pursuing **B.Tech in Computer Science & Engineering**  
 💡 Passionate about **Web Development, Data Analysis & GenAI**  
@@ -17,13 +14,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pallavi123&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PallaviSatya&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi123&layout=compact&theme=radical)  
 
-## 📫 Contact Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Pallavi123)  
-📩 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-
-## ⚡An Interesting Fact  
- "A technologist with an eye for design and heart in creativity."  
