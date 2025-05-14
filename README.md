@@ -1,6 +1,6 @@
 # Hi there, I'm Pallavi! 👋  
 
-(https://github.com/PallaviSatya/PallaviSatya/blob/main/github%20profile.jpg?raw=true) 
+![Profile Image](https://github.com/PallaviSatya/PallaviSatya/blob/main/github-profile.jpg?raw=true)
 
 ## 🌟 About Me 
 🎓 Currently pursuing **B.Tech in Computer Science & Engineering**  
