@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🌟 Hi there, I'm **Pallavi**! 👋  
+#  Hi there, I'm **Pallavi**! 👋  
 
-### 🚀 About Me  
+###  About Me  
 🎓 Currently pursuing **B.Tech in Computer Science & Engineering**  
 💻 Passionate about **Web Development, Data Analysis & GenAI**  
 🧩 Love solving **Data Structures & Algorithms (DSA)** problems using Java  
