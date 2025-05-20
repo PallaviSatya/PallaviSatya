@@ -24,7 +24,7 @@
 
 ### 📈 **GitHub Profile Stats**  
 ![Profile Views](https://komarev.com/ghpvc/?username=PallaviSatya&color=blue)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pallavi&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PallaviSatya&show_icons=true&theme=radical)  
 
 ---
 
