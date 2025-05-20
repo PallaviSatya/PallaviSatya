@@ -19,12 +19,7 @@
 🔧 **Web Development:** HTML | CSS | JavaScript | React  
 📂 **Version Control:** Git | GitHub  
 📊 **Databases:** MySQL | MongoDB  
-
----
-
-### 📈 **GitHub Profile Stats**  
-![Profile Views](https://komarev.com/ghpvc/?username=PallaviSatya&color=blue)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PallaviSatya&show_icons=true&theme=radical)  
+  
 
 ---
 
