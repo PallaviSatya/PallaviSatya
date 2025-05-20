@@ -23,13 +23,9 @@
 ---
 
 ### 📈 **GitHub Profile Stats**  
-![Profile Views](https://komarev.com/ghpvc/?username=Pallavi&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=PallaviSatya&color=blue)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pallavi&show_icons=true&theme=radical)  
 
 ---
-
-### 🌍 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pallavi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-Pallavi-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)  
 
 </div>
