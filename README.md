@@ -11,6 +11,4 @@ Pursuing **B.Tech in Computer Science & Engineering**
 Passionate about **Web Development, Data Analysis & GenAI**  
 Solving **Data Structures & Algorithms (DSA)** problems using Java  
 Constantly learning and growing in the tech world  
-
-
 </div>
