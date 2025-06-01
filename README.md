@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm **Pallavi**! 
+# Heya everyone, I'm **Pallavi**! 
 
  _"Turning ideas into reality with code."_  
 
