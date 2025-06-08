@@ -36,7 +36,7 @@ Solving **Data Structures & Algorithms (DSA)** problems using Java
 
 
 # 📊 Leetcode Stats
-![Leetcode Stats]([https://leetcard.jacoblin.cool/hari_veera_venkat?theme=unicorn](https://leetcode.com/u/Palli_Pallavi_Satya/))
+![Leetcode Stats]]([https://leetcode.com/u/Palli_Pallavi_Satya/](https://leetcode.com/u/stats/)
 
 
 # 🌐 Let’s Connect
