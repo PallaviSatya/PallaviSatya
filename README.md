@@ -7,17 +7,18 @@
 
 
 # 💫 About Me:
-- 🔭 I'm currently working on full stack projects.
-- 👬 I'm looking to collaborate on open-source web development.
-- 🤝🏻 I'm looking for help with landing an internship or job.
+About Me**  
+ 
+ 
+Solving **Data Structures & Algorithms (DSA)** problems using Java  
+ 
+
+- 🔭 I'm currently pursuing B.Tech in Computer Science & Engineering .
+- 👬 I'm constantly learning and growing in the tech world .
+- 🤝🏻 I'm passionate about Web Development, Data Analysis & GenAI.
 - 🌱 I'm currently learning DSA.
-- 💬 Ask me about web development.
-- ⚡ Fun fact: I enjoy listening music.
-<!--
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-veera-venkat-pasapuleti-0043a8284/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@haripasapuleti8055) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hari__pasapuleti/)
--->
+
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -32,36 +33,15 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Machine Learning](https://img.shields.io/badge/machine%20learning-%235DBCD2.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HariPasapuleti&theme=unicorn&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HariPasapuleti&theme=unicorn&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HariPasapuleti&theme=unicorn&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 # 📊 Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/hari_veera_venkat?theme=unicorn)
+![Leetcode Stats]([https://leetcard.jacoblin.cool/hari_veera_venkat?theme=unicorn](https://leetcode.com/u/Palli_Pallavi_Satya/))
 
-## 🏆 GitHub Trophies
-<!--
-![](https://github-profile-trophy.vercel.app/?username=HariPasapuleti&theme=unicornhub&no-frame=false&no-bg=false&margin-w=4)
--->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HariPasapuleti" alt="HariPasapuleti" /></a> </p>
-
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=unicorn) -->
 
 # 🌐 Let’s Connect
-- 💼 LinkedIn: [hari-veera-venkat-pasapuleti](https://www.linkedin.com/in/hari-veera-venkat-pasapuleti-0043a8284/)  
-- 📁 Portfolio: [haripasapuleti](https://haripasapuleti.vercel.app/)
-- 💡 LeetCode: [Hari_Veera_Venkat](https://leetcode.com/u/Hari_Veera_Venkat/)
-- 📷 Instagram: [hari__pasapuleti](https://www.instagram.com/hari__pasapuleti/)  
-- 🐦 Twitter: [haripasapuleti](https://x.com/haripasapuleti)
-- ✍️ Medium: [Hari Pasapuleti](https://medium.com/@haripasapuleti8055) 
+- 💼 LinkedIn: [Pallavi Satya Palli](https://www.linkedin.com/in/pallavi-satya-palli-99401228b/)/) 
+- ✍️ Medium: [Pallavi Satya](https://medium.com/@pallavisatyapalli) 
 
 ✨ Let’s collaborate and build something amazing together!
-<!--
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/haripasapuleti) 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/kvskmurty2802/)
--->
-<!-- ![snake gif](https://github.com/HariPasapuleti/HariPasapuleti/blob/output/github-contribution-grid-snake.gif) -->
+
