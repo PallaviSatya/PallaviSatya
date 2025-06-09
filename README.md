@@ -9,9 +9,9 @@
 #  About Me:
 
 -  I'm currently pursuing B.Tech in Computer Science & Engineering .
--  I'm constantly learning and growing in the tech world .
--  I'm passionate about Web Development, Data Analysis & GenAI.
--  I'm currently learning DSA.
+-  Constantly learning and growing in the tech world .
+-  Passionate about Web Development, Data Analysis & GenAI.
+-  Currently learning DSA.
 
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PallaviSatya&show_icons=true&theme=tokyonight)]()
