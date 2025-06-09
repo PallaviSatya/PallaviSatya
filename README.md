@@ -14,6 +14,8 @@
 -  I'm currently learning DSA.
 
 
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PallaviSatya&show_icons=true&theme=tokyonight)]()
+
 
 #  Let’s Connect
 - LinkedIn: [Pallavi Satya Palli](https://www.linkedin.com/in/pallavi-satya-palli-99401228b/)
