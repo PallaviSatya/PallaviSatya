@@ -15,7 +15,7 @@
 </h1>-->
 
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4100&lines=Heya+Everyone!+I'm+Pallavi+Satya;&color=E6DAC3"/> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4100&lines=Heya+Everyone!+I'm+Pallavi+Satya;&color=C7B8EA"/> 
 </h1>
 
 <h3 align="center">A passionate individual.</h3>
