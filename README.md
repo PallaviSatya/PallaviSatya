@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4100&lines=Heya+Everyone!+I'm+Pallavi+Satya;&color=556B2F"/>
 </h1>-->
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4100&lines=Heya+Everyone!+I'm+Pallavi+Satya;&color=#964B00"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4100&lines=Heya+Everyone!+I'm+Pallavi+Satya;&color=#786C3B"/>
 </h1>
 
 <h3 align="center">A passionate individual.</h3>
